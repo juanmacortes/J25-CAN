@@ -1,0 +1,12 @@
+[06-Feb-2014 17:31:12 UTC] #0 /home/juanmanu/public_html/Can2.0/includes/main/WebUI.php(159): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/juanmanu/public_html/Can2.0/index.php(19): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Feb-2014 10:50:06 UTC] #0 /home/juanmanu/public_html/Can2.0/includes/main/WebUI.php(166): Vtiger_WebUI->triggerCheckPermission(Object(Vtiger_List_View), Object(Vtiger_Request))
+#1 /home/juanmanu/public_html/Can2.0/index.php(19): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[03-Aug-2014 00:58:57 UTC] #0 /home/juanmanu/public_html/Can2.0/includes/main/WebUI.php(159): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/juanmanu/public_html/Can2.0/index.php(19): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[03-Aug-2014 15:20:50 UTC] #0 /home/juanmanu/public_html/Can2.0/includes/main/WebUI.php(159): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/juanmanu/public_html/Can2.0/index.php(19): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
